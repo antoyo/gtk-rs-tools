@@ -1,0 +1,9 @@
+[package]
+name = "gtk-rs-tools"
+version = "0.1.0"
+authors = ["Antoni Boucher <bouanto@zoho.com>"]
+edition = "2018"
+
+[dev-dependencies]
+gio = "0.7.0"
+gtk = "0.7.0"
